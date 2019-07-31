@@ -6,4 +6,5 @@ total = pre*can
 imp=total*0.18
 neto=total+imp
 
-print("El costo a pagar es de: ", (neto), " soles.")
+print("El costo a pagar es de: ", neto, " soles.")
+
